@@ -6,3 +6,4 @@ Elektromanyetik Eyleyici Tasarımı ve Kontrolü" projesi için kullanılmaktad�
 Detaylı bilgi için proje yürütücüsü [Yrd. Doç. Dr. Levent ÇETİN](http://lcetin.github.io/) linkinden ulaşabilirsiniz.
 
 Teşekkürler
+

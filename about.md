@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4-Advanced
+title: Teme - videolar
 ---
 
 ## MEKANİZMA VİDEOLARI

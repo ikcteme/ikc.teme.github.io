@@ -1,7 +1,3 @@
----
-layout: default
-title: Teme - videolar
----
 
 ## MEKANİZMA VİDEOLARI
 
